@@ -22,8 +22,8 @@ To use any of the models:
 
 * Download or clone the repository
 * Move to the directory of the model you want to use
-* Any of the models can be used by simply opening the ```.ipynb```associated file and changing the input/output directories.
-* You may have to change the input data inside the ```main.py```file of each model.
+* Any of the models can be used by simply opening the ```.ipynb```associated file and changing the input/output directories
+* You may have to change the input data inside the ```main.py```file of each model
 
 
 ## Acknowledgements
