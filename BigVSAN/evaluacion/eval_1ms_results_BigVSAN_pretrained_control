@@ -1,0 +1,16 @@
+{
+    "M-STFT": 0.8094662102063497,
+    "PESQ": 3.9630667384465537,
+    "MCD": 0.4399952292203179,
+    "Periodicity": 0.1110352873802185,
+    "V/UV F1": 0.9827447533607483,
+    "dir_results": {
+        "TFM_MartaRey/datos/generados/pretrained_1ms_BigVSAN_generated_control": {
+            "M-STFT": 0.8094662102063497,
+            "PESQ": 3.9630667384465537,
+            "MCD": 0.4399952292203179,
+            "Periodicity": 0.1110352873802185,
+            "V/UV F1": 0.9827447533607483
+        }
+    }
+}
