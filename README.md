@@ -15,7 +15,7 @@ The project is divided into six subfolders:
 * ResNet
 * LSTM_FCN
 * InceptionTime
-* CDIL
+* CDIL_CNN
 
 ## Usage
 To use any of the models:
