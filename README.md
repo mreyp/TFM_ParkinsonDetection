@@ -11,7 +11,7 @@ The data used for the development of this work is not included in this repositor
 The project is divided into six subfolders:
 
 * ```preparacion```: includes the notebooks used for preprocessing the data, extracting visual aids, and performing the 5-fold cross-validation technique.
-* BigVSAN: includes the necessary files to train, generate and evaluate the sound files. Pretrained models are also stored. Modified from [https://github.com/sony/bigvsan](https://github.com/sony/bigvsan)
+* ```BigVSAN```: includes the necessary files to train, generate and evaluate the sound files. Pretrained models are also stored. Modified from [https://github.com/sony/bigvsan](https://github.com/sony/bigvsan)
 * ```ResNet```. Modified from [https://github.com/hfawaz/dl-4-tsc](https://github.com/hfawaz/dl-4-tsc)
 * ```LSTM_FCN```. Modified from [https://github.com/flaviagiammarino/lstm-fcn-pytorch](https://github.com/flaviagiammarino/lstm-fcn-pytorch)
 * ```InceptionTime```. Modified from [https://github.com/hfawaz/InceptionTime](https://github.com/hfawaz/InceptionTime)
