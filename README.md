@@ -2,7 +2,7 @@
 
 This repository is used to store all the files used in the development of the project: **Voice-Based Parkinson’s Disease Detection through Neural Networks and GAN-Driven Data Augmentation**.
 
-This project has been developed as a Master's Thesis by Marta Rey Paredes, for the Master's Degree in Artificial Intelligence (MUIA) at the Polytechnic University of Madrid. The associated document can be found in the [Archivo Digital UPM](https://oa.upm.es). 
+This project has been developed as a Master's Thesis by Marta Rey Paredes, for the Master's Degree in Artificial Intelligence (MUIA) at the Polytechnic University of Madrid. 
 
 The five models presented are copies of existing repositories, modified to adapt them for this project.
 
