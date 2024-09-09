@@ -1,5 +1,8 @@
 # Voice-Based Parkinson’s Disease Detection through Neural Networks and GAN-Driven Data Augmentation 
 
+![diagram_high](https://github.com/user-attachments/assets/ce1d830c-6484-43aa-8259-865db25c9ede)
+
+
 This repository is used to store all the files used in the development of the project: **Voice-Based Parkinson’s Disease Detection through Neural Networks and GAN-Driven Data Augmentation**.
 
 This project has been developed as a Master's Thesis by Marta Rey Paredes, for the Master's Degree in Artificial Intelligence (MUIA) at the Polytechnic University of Madrid. 
