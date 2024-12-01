@@ -35,4 +35,19 @@ We are thankful to Prof. Orozco Arroyave and GITA research group of the Universi
 This research is part of the R\&D\&I projects PID2021-122209OB-C31 and PID2021-122209OB-C32 funded by MCIN/AEI/10.13039/501100011033 and ERDF A way of making Europe.
 
 ## Citing
-The author gives permission for any kind of work in which the code can be used partially or completely in any project that may be necessary, thanking the acknowledgement of her authorship.
+The author gives permission for any kind of work in which the code can be used partially or completely in any project that may be necessary, under the following citation:
+
+[1] M. Rey-Paredes, C. J. Perez and A. Mateos-Caballero, "Time Series Classification of Raw Voice Waveforms for Parkinson's Disease Detection Using Generative Adversarial Network-Driven Data Augmentation" in IEEE Open Journal of the Computer Society, pp. 1-11, PrePrints 5555, doi: 10.1109/OJCS.2024.3504864.
+
+
+```bibtex
+@article{reyparedes2024parkinson,
+        author={Rey-Paredes, Marta and Perez, Carlos J. and Mateos-Caballero, Alfonso},
+        journal={IEEE Open Journal of the Computer Society},
+        title={{Time Series Classification of Raw Voice Waveforms for Parkinson's Disease Detection Using Generative Adversarial Network-Driven Data Augmentation}},
+        ISSN={2644-1268},
+        pages={1-11},
+        doi={10.1109/OJCS.2024.3504864},
+        url={https://doi.ieeecomputersociety.org/10.1109/OJCS.2024.3504864},
+}
+```
