@@ -41,13 +41,18 @@ The author gives permission for any kind of work in which the code can be used p
 
 
 ```bibtex
-@article{reyparedes2024parkinson,
+@article{reyparedes2025parkinson,
         author={Rey-Paredes, Marta and Perez, Carlos J. and Mateos-Caballero, Alfonso},
-        journal={IEEE Open Journal of the Computer Society},
-        title={{Time Series Classification of Raw Voice Waveforms for Parkinson's Disease Detection Using Generative Adversarial Network-Driven Data Augmentation}},
+        journal={ IEEE Open Journal of the Computer Society },
+        title={{ Time Series Classification of Raw Voice Waveforms for Parkinson's Disease Detection Using Generative Adversarial Network-Driven Data Augmentation }},
+        year={2025},
+        volume={6},
+        number={01},
         ISSN={2644-1268},
-        pages={1-11},
+        pages={72-84},
         doi={10.1109/OJCS.2024.3504864},
-        url={https://doi.ieeecomputersociety.org/10.1109/OJCS.2024.3504864},
+        url = {https://doi.ieeecomputersociety.org/10.1109/OJCS.2024.3504864},
+        publisher={IEEE Computer Society}
 }
+
 ```
